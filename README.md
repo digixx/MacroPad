@@ -10,10 +10,10 @@ In this first version you can choose the title of the buttom, its background col
 
 {"b0": ("CTRL-C","WHITE",["CONTROL","C"])}
 
-"b0": is the name of the button within the page
-"CTRL-C" ist the text displayed on the button
-"WHITE" is the color of its background
-["CONTROL","C"] is the code sended to the serial USB connection
+"b0": is the name of the button within the page<br>
+"CTRL-C" ist the text displayed on the button<br>
+"WHITE" is the color of its background<br>
+["CONTROL","C"] is the code sended to the serial USB connection<br>
 
 
 
