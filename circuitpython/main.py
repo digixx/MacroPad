@@ -71,7 +71,7 @@ def send_keys(btn):
         for cmd in cmds:
             print("cmd=", cmd)
             
-            # check for string or interger value
+            # check for string or integer value
             if isinstance(cmd, int):
                 # print ("cmd: Delay found=", cmd)
                 kbd.release_all()
